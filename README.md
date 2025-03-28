@@ -1,2 +1,2 @@
 # My-Portfolio
-https://stackblitz.com/~/github.com/Yacinetetah/My-Portfolio)
+https://ubiquitous-semolina-ea61bc.netlify.app/
